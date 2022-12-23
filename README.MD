@@ -37,3 +37,9 @@ Finally, you can use the plot_strategy method to visualize the stock data and tr
 ```python
 strategy.plot_strategy()
 ```
+
+## Screenshots of examples
+<img src="https://drive.google.com/uc?id=1rGPAusX7DTIrwguDf-xsFXn9h0R9ntLD">
+<img src="https://drive.google.com/uc?id=1rHN3gHTe9o1EIcX3Crkm7yUxYFneF-vy">
+<img src="https://drive.google.com/uc?id=1rBWYWiL3lp40s1j_RyeJbzZMoCqUU3Rv">
+<img src="https://drive.google.com/uc?id=1rEShf4xTFN_a6YPdRZxoQkTl4hKwVEzH">
