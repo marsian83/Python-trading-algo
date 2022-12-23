@@ -1,0 +1,7 @@
+requests
+pandas
+matplotlib
+plotly
+pyalgotrading
+IPython
+nbformat --upgrade
